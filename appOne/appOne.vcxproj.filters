@@ -18,5 +18,19 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="gmain.cpp" />
+    <ClCompile Include="player.cpp" />
+    <ClCompile Include="bullet.cpp" />
+    <ClCompile Include="enemy.cpp" />
+    <ClCompile Include="distance.cpp" />
+    <ClCompile Include="enemy_bullet.cpp" />
+    <ClCompile Include="result.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="player.h" />
+    <ClInclude Include="bullet.h" />
+    <ClInclude Include="enemy.h" />
+    <ClInclude Include="distance.h" />
+    <ClInclude Include="enemy_bullet.h" />
+    <ClInclude Include="result.h" />
   </ItemGroup>
 </Project>
