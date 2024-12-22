@@ -12,4 +12,4 @@ This project is a modification and enhancement of a public repository.
 - visualStudio 2022
 
 ## Credits
-The repository from which it was cloned [Coding-Ocean]{https://github.com/Coding-Ocean/empty.git}
+The repository from which it was cloned [Coding-Ocean]{ https://github.com/Coding-Ocean/empty.git }
