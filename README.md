@@ -13,7 +13,9 @@
 ##クレジット
 - クローン元のリポジトリ「Coding-Ocean」{ https://github.com/Coding-Ocean/empty.git }
 - 元のコード解説と制作 { https://youtu.be/CcWFsMzZDBk?si=XaYoRxPsvqUlKJX9 }
- 
+- 
+ ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+
 This game created using C (C++).
 This project is a modification and enhancement of a public repository. 
 
