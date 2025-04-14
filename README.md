@@ -1,4 +1,17 @@
 ﻿# Bullet-shooting-game-01
+このゲームは C（C++） を使って作成されました。本プロジェクトは、公開されているリポジトリを改良・拡張したものです。
+
+## 特徴
+- プレイヤーが操作するキャラクターとシューティングの仕組み
+- 多数の当たり判定とシンプルなデザイン
+
+##使用技術
+- C（C++）
+- Visual Studio 2022
+
+##クレジット
+- クローン元のリポジトリ「Coding-Ocean」{ https://github.com/Coding-Ocean/empty.git }
+- 元のコード解説と制作 { https://youtu.be/CcWFsMzZDBk?si=XaYoRxPsvqUlKJX9 }
  
 This game created using C (C++).
 This project is a modification and enhancement of a public repository. 
