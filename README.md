@@ -1,9 +1,7 @@
 ﻿# Bullet-shooting-game-01
-このプログラムはC++環境でC言語を使って作成しました。
-
-このプロジェクトは、公開されているリポジトリを改良・拡張したものです。
-
-リフレッシュレート144Hzの環境で開発しました。
+- このプログラムはC++環境でC言語を使って作成しました。
+- このプロジェクトは、公開されているリポジトリを改良・拡張したものです。
+- リフレッシュレート144Hzの環境で開発しました。
 
 特徴
 - プレイヤーが操作するキャラクターとシューティングの仕組み
@@ -19,9 +17,9 @@
 
  ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
 
-This game created using C (C++).
-This project is a modification and enhancement of a public repository. 
-It was developed on a system with a 144Hz refresh rate.
+- This game created using C (C++).
+- This project is a modification and enhancement of a public repository. 
+- It was developed on a system with a 144Hz refresh rate.
 
 ## Features
 - Player-controlled character with shooting mechanics.
