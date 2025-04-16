@@ -24,7 +24,7 @@
 - Player-controlled character with shooting mechanics.
 - A large number of collision detections and a simple design.
 
-## Technologies
+## Development Environment
 - C (C++)
 - visualStudio 2022
 - It was developed on a system with a 144Hz refresh rate.
