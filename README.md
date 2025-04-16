@@ -19,7 +19,6 @@
 
 - This game created using C (C++).
 - This project is a modification and enhancement of a public repository. 
-- It was developed on a system with a 144Hz refresh rate.
 
 ## Features
 - Player-controlled character with shooting mechanics.
@@ -28,6 +27,7 @@
 ## Technologies
 - C (C++)
 - visualStudio 2022
+- It was developed on a system with a 144Hz refresh rate.
 
 ## Credits
 - The repository from which it was cloned [Coding-Ocean] { https://github.com/Coding-Ocean/empty.git }
